@@ -16,7 +16,7 @@
         		}
         		$("#results").html();
         		for(var i=0;i<result[1].length;i++){
-        			$("#output").prepend("<div><div class='well'><a href="+result[3][i]+"><h2>" + result[1][i]+ "</h2>" + "<p>" + result[2][i] + "</p></a></div></div>");
+        			$("#output").prepend("<div><div class='well'><a href="+result[3][i]+"><h2>" + result[1][i]+ "</h2>");
         		}
 
         	}
