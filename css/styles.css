@@ -1,0 +1,17 @@
+input {
+  width:auto;
+}
+head, main { 
+    text-align: center;
+}
+h1 {
+    font-family: 'Grenze Gotisch', cursive;
+}
+h2 {
+    font-family: 'Neuton', serif;
+}
+ 
+#output :hover {
+ 
+  background-color: yellow;
+}
